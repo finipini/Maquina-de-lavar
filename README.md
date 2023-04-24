@@ -5,7 +5,7 @@ Flow em node red que cria sensores no home assistant para saber estado de maquin
 
 ![flow](https://github.com/finipini/Maquina-de-lavar/blob/main/imagens/Screenshot_48.png)
 
-Podem seguir na Wiki [wiki](https://github.com/finipini/Maquina-de-lavar/wiki/flow)o passo a passo para a criação do flow.
+Podem seguir na [Wiki](https://github.com/finipini/Maquina-de-lavar/wiki/flow) o passo a passo para a criação do flow.
 
 
 
