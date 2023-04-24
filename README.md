@@ -11,7 +11,7 @@ Podem seguir na [Wiki](https://github.com/finipini/Maquina-de-lavar/wiki/flow) o
 
 
 
-[off](https://github.com/finipini/Maquina-de-lavar/blob/main/imagens/Screenshot_52.png)  [on](https://github.com/finipini/Maquina-de-lavar/blob/main/imagens/Screenshot_53.png)
+[!off](https://github.com/finipini/Maquina-de-lavar/blob/main/imagens/Screenshot_52.png)  [!on](https://github.com/finipini/Maquina-de-lavar/blob/main/imagens/Screenshot_53.png)
 
 
 O card podem copiar [aqui](https://github.com/finipini/Maquina-de-lavar/wiki/Card)
