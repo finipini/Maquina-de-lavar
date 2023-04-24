@@ -1,7 +1,7 @@
 # Maquina-de-lavar
 Flow em node red que cria sensores no home assistant para saber estado de maquinas de lavar/secar etc..., só através de sensores de consumo instantâneo(W) e energia (KWh)
 
-![red text](https://user-images.githubusercontent.com/1299821/59151548-38a8d800-8a35-11e9-875a-64e72fd6f5a6.png)
+![flow](https://github.com/finipini/Maquina-de-lavar/blob/main/imagens/Screenshot_48.png)
 
 ideias vieram de:
 
